@@ -1,7 +1,5 @@
 # 🏄‍♀️ Mia Z
 
-**`Design Engineer`**
-
 Hi there 👋, I'm Mia, a design engineer.
 
 # 
