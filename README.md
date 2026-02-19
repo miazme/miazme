@@ -1,8 +1,8 @@
-# 🏄‍♀️ Mia
+# 🏄‍♀️ Mia Z
 
-**`Frontend Developer | Design Engineer`**
+**`Design Engineer`**
 
-Hi there👋, I'm a **frontend developer** who knows how to design ✨aesthetic✨ websites. I'm also great with buttery smooth web animations. Feel free to reach out to me via ✉️ miafrontend@gmail.com for collaborations, opportunities, or just to have a conversation.
+Hi there 👋, I'm Mia, a design engineer.
 
 # 
 **`Skills & Tools`**
