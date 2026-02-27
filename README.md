@@ -1,9 +1,6 @@
-# 🏄‍♀️ Mia Z
+# 🏄‍♀️ miaz
 
-Hi there 👋, I'm Mia, a design engineer.
-
-# 
-**`Skills & Tools`**
+Hi there 👋, I'm **miaz(Mia)**, a design engineer.
 
 <p>
   <img alt="TypeScript"
